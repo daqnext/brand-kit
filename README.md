@@ -20,6 +20,7 @@ Take care of below points while using the logo:
     <tr>
     <td><img src="./brand-assets/Meson-Logo/meson-logo-inverted.svg" alt="Meson Primary Logo Inverted" width="250"/></td>
     <td ><img src="./brand-assets/Meson-Logo/meson-logo.svg" alt="Meson Primary Logo" width="250"/></td>
+    <tr>
     <td ><img src="./brand-assets/Meson-Logo/meson-logo-monotone-white.svg" alt="Meson Monochrome White Logo" width="250"/></td>
     <td ><img src="./brand-assets/Meson-Logo/meson-logo-monotone-black.svg" alt="Meson Monochrome Black Logo" width="250"/></td>
     </tr>
@@ -29,6 +30,7 @@ Take care of below points while using the logo:
     <tr>
     <td><img src="./brand-assets/Meson-Token/meson-token-icon.svg" alt="Meson Logo" width="250"/></td>
     <td><img src="./brand-assets/Meson-Token/meson-token-inverted.svg" alt="Meson Logo" width="250"/></td>
+    <tr>
     <td ><img src="./brand-assets/Meson-Token/meson-token-inverted-black.svg" alt="Meson Logo" width="250"/></td>
       <td><img src="./brand-assets/Meson-Token/meson-token-monotone-icon-black.svg" alt="Meson Logo" width="250"/></td>
     </tr>
@@ -38,6 +40,7 @@ Take care of below points while using the logo:
     <tr>
     <td><img src="./brand-assets/Meson-Favicon/meson-favicon.svg" alt="Meson Logo" width="250"/></td>
     <td><img src="./brand-assets/Meson-Favicon/meson-favicon-inverted.svg" alt="Meson Logo" width="250"/></td>
+    <tr>
     <td ><img src="./brand-assets/Meson-Favicon/meson-favicon-monotone-black.svg" alt="Meson Logo" width="250"/></td>
     <td ><img src="./brand-assets/Meson-Favicon/meson-favicon-monotone-white.svg" alt="Meson Logo" width="250"/></td>
     </tr>
@@ -47,8 +50,9 @@ Take care of below points while using the logo:
     <tr>
     <td><img src="./brand-assets/Meson-Avatar/meson-avatar.svg" alt="Meson Logo" width="250"/></td>
     <td><img src="./brand-assets/Meson-Avatar/meson-avatar-inverted.svg" alt="Meson Logo" width="250"/></td>
+    <tr>
     <td ><img src="./brand-assets/Meson-Avatar/meson-avatar-monotone-white.svg" alt="Meson Logo" width="250"/></td>
-      <td><img src="./brand-assets/Meson-Avatar/meson-avatar-monotone-black.svg" alt="Meson Logo" width="250"/></td>
+    <td><img src="./brand-assets/Meson-Avatar/meson-avatar-monotone-black.svg" alt="Meson Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
