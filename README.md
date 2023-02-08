@@ -54,6 +54,13 @@ Take care of below points while using the logo:
     <td ><img src="./brand-assets/Meson-Avatar/meson-avatar-monotone-white.svg" alt="Meson Logo" width="250"/></td>
     <td><img src="./brand-assets/Meson-Avatar/meson-avatar-monotone-black.svg" alt="Meson Logo" width="250"/></td>
     </tr>
+        <tr>
+      <th colspan="2">GaGaNode Logo</th>
+    </tr>
+    <tr>
+    <td><img src="./brand-assets/GaGaNode/gaganode-favicon.svg" alt="Meson Logo" width="250"/></td>
+    <td><img src="./brand-assets/GaGaNode/gaganode.svg" alt="Meson Logo" width="250"/></td>
+    </tr>
   </tbody>
 </table>
 
