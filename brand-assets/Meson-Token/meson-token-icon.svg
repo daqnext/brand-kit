@@ -1,31 +1,31 @@
 <svg width="937" height="937" viewBox="0 0 937 937" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_b_1096_337)">
-<rect width="937" height="937" rx="468.5" fill="black"/>
-<rect x="0.5" y="0.5" width="936" height="936" rx="468" stroke="black"/>
-<path d="M416.767 243.289L88.8203 610.838" stroke="white" stroke-width="18"/>
-<path d="M776.306 320.711L88.8203 610.834" stroke="white" stroke-width="18"/>
-<path d="M421.661 703.836L87.9297 611.281" stroke="white" stroke-width="18"/>
-<path d="M425.669 239.727L318.43 518.726" stroke="white" stroke-width="18"/>
-<path d="M438.13 696.718L320.656 515.168" stroke="white" stroke-width="18"/>
-<path d="M424.781 227.715L777.201 294.461" stroke="white" stroke-width="18"/>
-<path d="M423.891 223.707L749.167 483.572" stroke="white" stroke-width="18"/>
-<path d="M801.225 346.965L748.273 484.907" stroke="white" stroke-width="18"/>
-<path d="M429.68 220.594L447.479 715.405" stroke="white" stroke-width="18"/>
-<path d="M789.207 333.617L445.242 714.07" stroke="white" stroke-width="18"/>
-<path d="M726.025 501.371L460.82 701.165" stroke="white" stroke-width="18"/>
-<circle cx="823.026" cy="302.022" r="68.971" fill="#FFC107"/>
-<circle cx="446.801" cy="702.277" r="51.3946" fill="#2196F4"/>
-<circle cx="430" cy="226" r="42" fill="#F34335"/>
-<circle cx="319" cy="513" r="42" fill="#9C27AF"/>
-<circle cx="88" cy="612" r="42" fill="#F34335"/>
-<circle cx="749" cy="490" r="42" fill="#8BC349"/>
+<g filter="url(#filter0_b_1103_578)">
+<rect width="937" height="937" rx="468.5" fill="white"/>
+<path d="M421.69 250.59L105.727 604.708" stroke="black" stroke-width="15"/>
+<path d="M768.091 325.184L105.727 604.706" stroke="black" stroke-width="15"/>
+<path d="M426.396 694.309L104.859 605.137" stroke="black" stroke-width="15"/>
+<path d="M430.258 247.16L326.938 515.965" stroke="black" stroke-width="15"/>
+<path d="M442.267 687.456L329.086 512.539" stroke="black" stroke-width="15"/>
+<path d="M429.414 235.59L768.956 299.897" stroke="black" stroke-width="15"/>
+<path d="M428.555 231.727L741.945 482.096" stroke="black" stroke-width="15"/>
+<path d="M792.103 350.48L741.086 483.383" stroke="black" stroke-width="15"/>
+<path d="M434.133 228.723L451.281 705.454" stroke="black" stroke-width="15"/>
+<path d="M780.514 337.617L449.117 704.169" stroke="black" stroke-width="15"/>
+<path d="M719.647 499.242L464.133 691.735" stroke="black" stroke-width="15"/>
+<circle cx="812.642" cy="307.517" r="77.5478" fill="#FFC107"/>
+<circle cx="450.432" cy="694.272" r="68.7132" fill="#2196F4"/>
+<circle cx="434.717" cy="233.897" r="58.897" fill="#F34335"/>
+<circle cx="434" cy="232" r="75" fill="#F34335"/>
+<circle cx="326.741" cy="510.71" r="58.897" fill="#9C27AF"/>
+<circle cx="104.897" cy="604.948" r="58.897" fill="#F34335"/>
+<circle cx="741.96" cy="488.131" r="58.897" fill="#8BC349"/>
 </g>
 <defs>
-<filter id="filter0_b_1096_337" x="-4" y="-4" width="945" height="945" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_b_1103_578" x="-4" y="-4" width="945" height="945" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
-<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1096_337"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1096_337" result="shape"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1103_578"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1103_578" result="shape"/>
 </filter>
 </defs>
 </svg>
