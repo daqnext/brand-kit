@@ -29,11 +29,7 @@ Take care of below points while using the logo:
     </tr>
     <tr>
     <td><img src="./brand-assets/Meson-Token/meson-token-icon.svg" alt="Meson Logo" width="250"/></td>
-    <td><img src="./brand-assets/Meson-Token/meson-token-inverted.svg" alt="Meson Logo" width="250"/></td>
     <tr>
-    <td ><img src="./brand-assets/Meson-Token/meson-token-inverted-black.svg" alt="Meson Logo" width="250"/></td>
-      <td><img src="./brand-assets/Meson-Token/meson-token-monotone-icon-black.svg" alt="Meson Logo" width="250"/></td>
-    </tr>
     <tr>
       <th colspan="2">Meson Favicon</th>
     </tr>
